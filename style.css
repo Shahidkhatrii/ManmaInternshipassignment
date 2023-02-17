@@ -408,6 +408,7 @@ a {
 .yellow-container {
 	-webkit-animation: slide-in-left 1.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	        animation: slide-in-left 1.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+		animation-delay: 1s;
 }
 
  @-webkit-keyframes slide-in-left {
@@ -442,6 +443,7 @@ a {
   .Discover {
     -webkit-animation: slide-in-bl 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
             animation: slide-in-bl 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	    animation-delay: 1.5s;
   }
 
   @-webkit-keyframes slide-in-bl {
